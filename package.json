@@ -1,0 +1,9 @@
+{
+  "name": "jsDieRoller",
+  "version": "1.0.0",
+  "description": "A full API for doing game related dice rolling",
+  "repository": "git://github.com/joycem137/jsDieRoller.git",
+  "main": "index.js",
+  "author": "Joyce Mayorga",
+  "license": "ISC"
+}
